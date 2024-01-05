@@ -62,5 +62,4 @@ func iniciarMonitoramento() {
 			os.Exit(-1)
 		}
 	}
-
 }
